@@ -1,1 +1,1 @@
-# pope-day
+# ping-day
